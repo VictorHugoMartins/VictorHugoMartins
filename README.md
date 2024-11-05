@@ -10,7 +10,6 @@
 
 ### Prototyping
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<p>Click <a href="https://www.figma.com/file/wbFJotbNOxeJb08HIdYwWt/Portf%C3%B3lio?node-id=0%3A1" target="blank">here</a> if you want to see some of the designs I loved doing the most!</p>
  
 ### Back-end
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
